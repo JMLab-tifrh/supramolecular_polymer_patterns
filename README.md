@@ -5,16 +5,16 @@ The code is written to run numerical integration of a two-dimensional reaction-d
 ---
 
 ## Model variables
-d    : deactivated monomer concentration
-a1   : activated monomer concentration
-m1   : polymer mass concentration
-m0   : polymer number concentration
+d    : deactivated monomer concentration </br>
+a1   : activated monomer concentration </br>
+m1   : polymer mass concentration </br>
+m0   : polymer number concentration </br>
 
 ## Model parameters
-ka   :  monomer activation rate constant
-kd2  :  polymer end deactivation rate constant
-kd3  :  polymer chain deactivation rate constant
-kp   :  rate constant for polymer assembly
+ka   :  monomer activation rate constant </br>
+kd2  :  polymer end deactivation rate constant </br>
+kd3  :  polymer chain deactivation rate constant </br>
+kp   :  rate constant for polymer assembly </br>
 ctot :  total monomer concentration 
 
 ## Numerical method
