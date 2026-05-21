@@ -18,7 +18,7 @@ kp   :  rate constant for polymer assembly </br>
 ctot :  total monomer concentration 
 
 ## Numerical method
-- Explicit Euler time scheme
+- Explicit fourth-order Runge-Kutta time scheme
 - Second-order central differences for diffusion
 - No-flux (Neumann) boundary condition
 
